@@ -1,0 +1,60 @@
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.exe
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.deps.json
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.runtimeconfig.json
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.dll
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.pdb
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Form1.resources
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.MenúEscenarios.resources
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Properties.Resources.resources
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.csproj.GenerateResource.cache
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.AssemblyInfoInputs.cache
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.AssemblyInfo.cs
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.dll
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\refint\Fase4EyberNavia.dll
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.pdb
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.genruntimeconfig.cache
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\ref\Fase4EyberNavia.dll
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Escenario1.resources
+C:\Users\user\Documents\8 SEMESTRE\8 semestre recuperear\ARQUITECTURA DE COMPUTADORES\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Escenario2.resources
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.exe
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.deps.json
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.runtimeconfig.json
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.dll
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.pdb
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Escenario1.resources
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Escenario2.resources
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Form1.resources
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.MenúEscenarios.resources
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Properties.Resources.resources
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.csproj.GenerateResource.cache
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.AssemblyInfoInputs.cache
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.AssemblyInfo.cs
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.dll
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\refint\Fase4EyberNavia.dll
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.pdb
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.genruntimeconfig.cache
+D:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\ref\Fase4EyberNavia.dll
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.exe
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.deps.json
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.runtimeconfig.json
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.dll
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\bin\Debug\net6.0-windows\Fase4EyberNavia.pdb
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Escenario1.resources
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Escenario2.resources
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Form1.resources
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.MenúEscenarios.resources
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.Properties.Resources.resources
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.csproj.GenerateResource.cache
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.AssemblyInfoInputs.cache
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.AssemblyInfo.cs
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.csproj.CoreCompileInputs.cache
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.dll
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\refint\Fase4EyberNavia.dll
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.pdb
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\Fase4EyberNavia.genruntimeconfig.cache
+F:\ESTRUCTURA\Fase4\Fase4EyberNavia\Fase4EyberNavia\obj\Debug\net6.0-windows\ref\Fase4EyberNavia.dll
